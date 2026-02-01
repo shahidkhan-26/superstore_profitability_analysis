@@ -1,1 +1,1 @@
-This files contain visualizations from Tableau.
+This folder contains Tableau dashboard screenshots and visualizations.
